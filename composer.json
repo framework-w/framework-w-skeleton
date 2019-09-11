@@ -2,7 +2,7 @@
     "name": "framework-w/skeleton",
     "type": "project",
     "description": "A minimal structure for Framework W project",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimum-stability": "dev",
     "license": "MIT",
     "prefer-stable": true,
