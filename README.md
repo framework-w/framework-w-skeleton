@@ -3,7 +3,7 @@
 Ce skeleton est la structure de base d'un projet W. Il permet d'utiliser le framework en tant que package et donc de le maintenir à jour plus facilement.
 
 
-####Spécifications
+## Spécifications
 
 Ce projet nécessite :
 * PHP: >= 7.1
@@ -12,6 +12,6 @@ Ce projet nécessite :
 * Server modules : composer
 * Apache modules: rewrite, expires, header
 
-####Installation
+## Installation
 
 Utilisez `composer create-project framework-w/skeleton name_of_project` pour installer les dépendances nécessaires
