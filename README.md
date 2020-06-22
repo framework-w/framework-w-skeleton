@@ -6,7 +6,7 @@ Ce skeleton est la structure de base d'un projet W. Il permet d'utiliser le fram
 ## Spécifications
 
 Ce projet nécessite :
-* PHP: >= 7.1
+* PHP: >= 7.2.5
 * PHP extensions: mbstring, mysqli
 * MariaDB ou MySQL: >=5.x
 * Server modules : composer

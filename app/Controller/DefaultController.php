@@ -12,7 +12,7 @@ class DefaultController extends Controller
 	 */
 	public function home()
 	{
-		$this->render('default/home');
+		return $this->render('default/home');
 	}
 
 }
